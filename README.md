@@ -1,2 +1,2 @@
 # PlaceAnywhere
-Place object on environment walls
+Place object on environment walls.
