@@ -1,0 +1,7 @@
+{
+	"name": "sandrocks",
+	"description": "Wall.",
+	"alwaysReplace": true,
+	"health": 100,
+	"destructible": false,
+}
