@@ -1,2 +1,2 @@
 # PlaceAnywhere
-Place object on environment walls.
+Simple mod that allow you to place object on environment walls.
